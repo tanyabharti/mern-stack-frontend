@@ -1,0 +1,54 @@
+.main {
+  min-height: 93vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  /* display: flex; */
+  /* margin-left: 570px; */
+  /* justify-content: flex-end;
+  align-content: flex-end;
+  align-self: flex-end; */
+  width: 100vh;
+  height: 80%;
+}
+
+.home {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.notes {
+  color: #0f7ce8;
+}
+
+.title {
+  font-size: 75px;
+  font-weight: bolder;
+  color: black;
+}
+.title:visited {
+  color: white;
+}
+
+.sub-title {
+  font-size: 25px;
+  padding-top: 10px;
+}
+
+.intro {
+  width: 100%;
+}
+
+.login {
+  margin-right: 15px;
+}
+
+.landing-button {
+  width: 200px;
+  height: 55px;
+}

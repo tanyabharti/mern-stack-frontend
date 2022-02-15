@@ -1,0 +1,10 @@
+.search{
+   display : flex;
+   align-self: flex-end;
+}
+
+#Link:visited
+{
+
+   color : white;
+}
